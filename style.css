@@ -1,0 +1,43 @@
+header{
+min-height:200px ;
+background-color: #ffe4c4;
+color: rgb(255, 255, 255);
+text-align:center ;
+font-size: 30px;
+
+background-image: url(https://flomaster.top/o/uploads/posts/2023-11/1700477067_flomaster-top-p-podvodnoe-more-v-okeane-zarisovki-pinteres-1.jpg);
+background-size: 50%;
+
+text-shadow: 1px 5px 20px black; 
+}
+main {height: 500px ;
+    background-color: #9eecff;
+display: flex;
+
+}
+.left{
+    width: 50%;
+}
+.right{
+    width: 50%;
+}
+footer{
+    height: 200px;
+    background-color: #00648b;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+.social img{
+    width: 50px;
+    padding-left: 10px;
+}
+
+.social{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
